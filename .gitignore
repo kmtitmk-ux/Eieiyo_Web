@@ -38,3 +38,4 @@ next-env.d.ts
 # Amplify temporary files
 .amplify/
 amplify_outputs.json
+memo.txt
